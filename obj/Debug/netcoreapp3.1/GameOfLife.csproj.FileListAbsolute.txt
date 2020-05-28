@@ -1,0 +1,12 @@
+/Users/maxime/Documents/GameOfLife/bin/Debug/netcoreapp3.1/GameOfLife.deps.json
+/Users/maxime/Documents/GameOfLife/bin/Debug/netcoreapp3.1/GameOfLife.runtimeconfig.json
+/Users/maxime/Documents/GameOfLife/bin/Debug/netcoreapp3.1/GameOfLife.runtimeconfig.dev.json
+/Users/maxime/Documents/GameOfLife/bin/Debug/netcoreapp3.1/GameOfLife.dll
+/Users/maxime/Documents/GameOfLife/bin/Debug/netcoreapp3.1/GameOfLife.pdb
+/Users/maxime/Documents/GameOfLife/obj/Debug/netcoreapp3.1/GameOfLife.csprojAssemblyReference.cache
+/Users/maxime/Documents/GameOfLife/obj/Debug/netcoreapp3.1/GameOfLife.AssemblyInfoInputs.cache
+/Users/maxime/Documents/GameOfLife/obj/Debug/netcoreapp3.1/GameOfLife.AssemblyInfo.cs
+/Users/maxime/Documents/GameOfLife/obj/Debug/netcoreapp3.1/GameOfLife.csproj.CoreCompileInputs.cache
+/Users/maxime/Documents/GameOfLife/obj/Debug/netcoreapp3.1/GameOfLife.dll
+/Users/maxime/Documents/GameOfLife/obj/Debug/netcoreapp3.1/GameOfLife.pdb
+/Users/maxime/Documents/GameOfLife/obj/Debug/netcoreapp3.1/GameOfLife.genruntimeconfig.cache
